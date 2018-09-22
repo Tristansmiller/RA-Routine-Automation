@@ -69,13 +69,13 @@ Press the Record button to start the recording process for a new automated routi
 ## Playback
 To play an automated routine, first click on the Load button and select the file you want to play. This will change the currently selected file and you should see your file's path scroll across the bottom text panel. Once a file's been selected, the playback button can be used to start the automated routine. 
 
-![PLAYBACK](./Screenshots/RAPlaybackFormCapture.png)
+![PLAYBACK](./Screenshots/RAPlaybackFormCapture.PNG)
 
 When manually starting an automated routine, you can configure the speed at which it plays as well as how many times it will loop.
 
 ## Scheduling
-![SCHEDULER](./Screenshots/RASchedulerFormCapture1.png)
-![SCHEDULE](./Screenshots/RASchedulerFormCapture2.png)
+![SCHEDULER](./Screenshots/RASchedulerFormCapture1.PNG)
+![SCHEDULE](./Screenshots/RASchedulerFormCapture2.PNG)
 
 RA supports the ability to schedule automated routines to play at arbitrary times and on certain intervals. These scheduled routines will wake the computer up, launch RA, and then execute. They can be canceled mid-playback by using your control macro - the same as any other automated routine. This is done through the Windows Task Scheduler, so the scheduled routines can be viewed there for a more verbose description.
 
